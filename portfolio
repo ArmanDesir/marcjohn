@@ -951,7 +951,7 @@ nav {
                             <div class="profile-border profile-border-1"></div>
                             <div class="profile-border profile-border-2"></div>
                             <div class="profile-image">
-                                <img src="image/profile.jpg" alt="Marcjohn Dave A. Calunod">
+                                <img src="image/profile.png" alt="Marcjohn Dave A. Calunod">
                                 <div class="profile-overlay"></div>
                             </div>
                         </div>
@@ -1188,7 +1188,7 @@ nav {
                         <div class="contact-icon">📍</div>
                         <div class="contact-info">
                             <div class="label">Location</div>
-                            <div class="value">Tumaga, Zamboanga City, Philippines</div>
+                            <div class="value">Zamboanga City, Philippines</div>
                             <p style="font-size: 0.875rem; color: #a8a8b8; margin-top: 0.5rem;">Languages: Tagalog • Chavacano • English</p>
                         </div>
                     </div>
